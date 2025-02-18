@@ -35,7 +35,7 @@ function App() {
           <div className="hero-content">
             <h1>Driving Impact Through Strategic Leadership, Client Satisfaction, and Data-Driven Innovation</h1>
             <p className="hero-subheader">Program Manager | Cybersecurity Expert | Change Management Leader | Digital Transformation Enabler</p>
-            <a href="https://drive.google.com/file/d/14HIvoupfMEVEhRNTHurFeT2BC5ffPhi3/view?usp=drive_link" className="hero-button">
+            <a href="https://drive.google.com/file/d/1lhR9eox_IcAf-49cRmcdxzX-qvsYfIfz/view?usp=sharing" className="hero-button">
               Download Resume <span className="arrow">→</span>
             </a>
           </div>
